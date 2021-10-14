@@ -1,0 +1,12 @@
+image_handler
+
+jwt
+Authentication (login pw)
+Authorization (check roles before work)
+endpoint1 /images/id.jpg
+	img id(is in db), return img
+store img
+endpoint2 /images/WxH/id.jpg
+	id, w, h; return resized img
+test cover
+container
